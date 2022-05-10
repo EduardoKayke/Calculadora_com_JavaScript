@@ -1,4 +1,4 @@
-# Calculadora_com_JavaScript
+# Calculadora com JavaScript
 
 ## Sobre o projeto.
 Calculadora desenvolvida com o curso da HCODE, construida com base no JavaScript. 
