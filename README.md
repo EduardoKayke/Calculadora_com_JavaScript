@@ -17,7 +17,7 @@ function Calculadora(Project) {
 
 <div align="center">
 
-<img src="Projetos/img/readme1.png" alt="Calculadora com JavaScript" width="800"/>
+<img src="Projetos/img/readme1.png" alt="Calculadora com JavaScript" width="600"/>
 
 </div>
 
